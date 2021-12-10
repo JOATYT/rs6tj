@@ -12,7 +12,7 @@ function setup() {
   edges = createEdgeSprites()
   bg = createSprite(580,300);
   bg.addImage(backgroundImg)
-  bg.scale = 1.5
+  bg.scale = 1.7
 
   player = createSprite(600,400,40,40)
   player.addImage(playerImg)
